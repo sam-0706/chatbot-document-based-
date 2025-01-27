@@ -14,10 +14,10 @@ from llama_index.llms.openai import OpenAI
 # 1. Configure Azure OpenAI credentials
 ######################
 openai.api_type = "azure"
-openai.api_base = "https://hongpt3-openai-eus.openai.azure.com/"
+openai.api_base = "********************************"
 openai.api_version = "2023-07-01-preview"
 openai.api_key = "*********************"  # <-- Replace with your Azure OpenAI key
-openai.azure_endpoint = "https://hongpt3-openai-eus.openai.azure.com/"
+openai.azure_endpoint = "*******************************"
 
 # NOTE: The value you set for `model` here must match the *deployment name* 
 # you created in Azure for your GPT-3.5/4 model, e.g. "my-gpt35-deployment"
