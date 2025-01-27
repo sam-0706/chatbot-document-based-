@@ -1,0 +1,19 @@
+1) open cmd
+
+2)mkdir chatbot project
+
+3) cd project
+
+4) code .
+
+5) the above command will be vscode
+
+6)in vscode open terminal and wexecute this command " pip install llama-index-core llama-index-llms-openai llama-index-readers-file python-dotenv"
+
+7)pip install streamlit
+
+8)test.py
+
+9)copy paste the code of streamlit UI from the github and change the credentails with your credentials
+
+10)run this command in terminal of vscode which is "streamlit run test.py"
