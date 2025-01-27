@@ -1,3 +1,5 @@
+#pip install llama-index-core llama-index-llms-openai llama-index-embeddings-huggingface llama-index-readers-file transformers python-dotenv
+
 import os
 from pathlib import Path
 import streamlit as st
