@@ -57,7 +57,7 @@ pip install -r requirements.txt
 To start the Streamlit application, run the following command:
 
 ```bash
-streamlit run x.py
+streamlit run openai+HF.py
 ```
 
 This will launch the application in your default web browser. If it does not open automatically, copy the URL shown in the terminal and paste it into your browser.
